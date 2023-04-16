@@ -12,6 +12,18 @@
 }
 
 @font-face {
+  font-family: Comic Mono NF;
+  font-weight: normal;
+  src: url(./ComicMonoNF.ttf);
+}
+
+@font-face {
+  font-family: Comic Mono NF;
+  font-weight: bold;
+  src: url(./ComicMonoNF-Bold.ttf);
+}
+
+@font-face {
   font-family: Comic Code;
   font-weight: normal;
   src: url(./ComicCode.ttf);
